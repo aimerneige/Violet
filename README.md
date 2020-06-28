@@ -1,4 +1,4 @@
-# 基于NoneBot框架开发的CQ插件——老婆生成器
+# 基于NoneBot框架开发的CQ插件——Violet
 
 #### ——为解决当代青年找不到对象的尴尬情况，开发了这么一个小玩意儿，使用时请配合[NoneBot]( https://github.com/nonebot/nonebot )框架使用
 
